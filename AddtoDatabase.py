@@ -13,8 +13,8 @@ ref = db.reference('Students')
 data = {
     "321654":
         {
-            "name": "Murtaza Hassan",
-            "major": "Robotics",
+            "name": "Mehek Richharia",
+            "major": "Computer Science",
             "starting_year": 2017,
             "total_attendance": 7,
             "standing": "G",
